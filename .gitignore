@@ -1,0 +1,82 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.dylib
+*.egg
+*.egg-info
+dist
+build
+.eggs
+MANIFEST
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__
+db.sqlite3
+media
+staticfiles
+*.env
+*.sqlite3
+*.db
+
+# PyCharm
+.idea/
+.idea/*
+
+# Virtual environment
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+*.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Pycharm specific
+.idea/
+
+# Docker
+docker-compose.override.yml
+
+# Coverage reports
+.coverage
+*.cover
+*.hypothesis
+.coverage.*
+
+# Pytest
+.cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# pyenv
+.python-version
+
+# venv
+venv/
+
+# log files
+*.log
+
+# local development files
+*.env
+
